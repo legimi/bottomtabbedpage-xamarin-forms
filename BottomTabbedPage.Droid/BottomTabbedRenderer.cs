@@ -8,7 +8,6 @@ using System.ComponentModel;
 using Com.Ittianyu.Bottomnavigationviewex;
 using Naxam.Controls.Forms;
 using Naxam.Controls.Platform.Droid.Utils;
-using Android.Support.Design.Internal;
 using Android.Content;
 
 [assembly: ExportRenderer(typeof(BottomTabbedPage), typeof(BottomTabbedRenderer))]
@@ -37,11 +36,11 @@ namespace Naxam.Controls.Platform.Droid
         IPageController TabbedController => Element as IPageController;
 
         public int LastSelectedIndex { get; internal set; }
-         
+
         public BottomTabbedRenderer(Context con) : base(con)
         {
             AutoPackage = false;
-            barId = GenerateViewId(); 
+            barId = GenerateViewId();
         }
 
         protected override void OnElementChanged(ElementChangedEventArgs<BottomTabbedPage> e)
@@ -70,7 +69,7 @@ namespace Naxam.Controls.Platform.Droid
 
             this.HandlePagesChanged();
             SwitchContent(Element.CurrentPage);
-            
+
             Element.ChildAdded += PagesChanged;
             Element.ChildRemoved += PagesChanged;
             Element.ChildrenReordered += PagesChanged;

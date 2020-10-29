@@ -5,7 +5,7 @@ using Android.Widget;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 using Com.Ittianyu.Bottomnavigationviewex;
-using Android.Support.Design.Internal;
+using Google.Android.Material.BottomNavigation;
 
 namespace Naxam.Controls.Platform.Droid.Utils
 {

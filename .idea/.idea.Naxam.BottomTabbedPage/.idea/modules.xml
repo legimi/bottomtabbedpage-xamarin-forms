@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.Naxam.BottomTabbedPage/BottomTabbedPage.Platform.Droid.iml" filepath="$PROJECT_DIR$/.idea/.idea.Naxam.BottomTabbedPage/BottomTabbedPage.Platform.Droid.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/.idea.Naxam.BottomTabbedPage/riderModule.iml" filepath="$PROJECT_DIR$/.idea/.idea.Naxam.BottomTabbedPage/riderModule.iml" />
     </modules>
   </component>

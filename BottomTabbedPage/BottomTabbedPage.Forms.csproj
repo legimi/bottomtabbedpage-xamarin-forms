@@ -10,12 +10,12 @@
     <AssemblyProduct>XControls</AssemblyProduct>
     <AssemblyCopyright>Copyright (c) 2017-present NAXAM</AssemblyCopyright>
     <AssemblyTrademark>NAXAM</AssemblyTrademark>
-    <AssemblyVersion>0.3.0.1</AssemblyVersion>
+    <AssemblyVersion>0.3.0.3</AssemblyVersion>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Controls" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="2.5.1.527436" />
+    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1534" />
   </ItemGroup>
 </Project>

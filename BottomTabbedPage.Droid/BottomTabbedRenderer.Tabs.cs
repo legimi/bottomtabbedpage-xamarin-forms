@@ -1,13 +1,9 @@
-﻿using System;
-using Android.Content.Res;
+﻿using Android.Content.Res;
 using Android.Graphics;
-using Android.Support.Design.Internal;
 using Android.Views;
 using Com.Ittianyu.Bottomnavigationviewex;
 using Naxam.Controls.Platform.Droid.Utils;
-using Xamarin.Forms.Platform.Android;
 using Xamarin.Forms;
-using Android.Widget;
 
 namespace Naxam.Controls.Platform.Droid
 {
