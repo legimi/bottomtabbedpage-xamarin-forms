@@ -25,90 +25,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4116d02-472e-40b6-8ff9-82803ae0f500" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.nuget" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Naxam.BottomTabbedPage/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Naxam.BottomTabbedPage/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Naxam.BottomTabbedPage/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Naxam.BottomTabbedPage/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Naxam.BottomTabbedPage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Naxam.BottomTabbedPage/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Naxam.BottomTabbedPage/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Naxam.BottomTabbedPage/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BottomTabbedPage.Droid/BottomTabbedPage.Platform.Droid.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BottomTabbedPage.Droid/BottomTabbedPage.Platform.Droid.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BottomTabbedPage.Droid/BottomTabbedRenderer.Tabs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BottomTabbedPage.Droid/BottomTabbedRenderer.Tabs.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BottomTabbedPage.Droid/BottomTabbedRenderer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BottomTabbedPage.Droid/BottomTabbedRenderer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BottomTabbedPage.Droid/Utils/SizeUtils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BottomTabbedPage.Droid/Utils/SizeUtils.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BottomTabbedPage/BottomTabbedPage.Forms.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BottomTabbedPage/BottomTabbedPage.Forms.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Assets/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Assets/architep.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/IconizeDemo.Droid.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Properties/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/AboutResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/drawable-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/drawable-hdpi/naxam_copyright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/drawable-mdpi/naxam_copyright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/drawable-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/drawable-xhdpi/naxam_copyright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/drawable-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/drawable-xxhdpi/naxam_copyright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/drawable-xxxhdpi/naxam_copyright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/drawable/bg_splash.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/drawable/bnv_selector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/drawable/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/layout/Tabbar.axml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/layout/Toolbar.axml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/mipmap-hdpi/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/mipmap-ldpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/mipmap-mdpi/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/mipmap-xhdpi/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/mipmap-xxhdpi/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/mipmap-xxxhdpi/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/values/Strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/IconizeDemo.Droid/Resources/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Naxam.BottomTabbedPage.0.3.0.2.nupkg_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Naxam.BottomTabbedPage.0.3.0.3-pre1.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Naxam.BottomTabbedPage.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Naxam.BottomTabbedPage.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Naxam.BottomTabbedPage.0.3.0.3.nupkg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bottombar.nuspec" beforeDir="false" afterPath="$PROJECT_DIR$/bottombar.nuspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Assets/AboutAssets.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Assets/architep.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/BottomTabbedPageQs.Droid.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/MainActivity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Properties/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/AboutResources.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable-hdpi/naxam_copyright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable-mdpi/naxam_copyright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable-xhdpi/naxam_copyright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable-xxhdpi/naxam_copyright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable-xxxhdpi/naxam_copyright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable/bg_splash.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable/bnv_selector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable/ic_audiotrack_black_24dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable/ic_backup_black_24dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable/ic_camera_black_24dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable/ic_favorite_black_24dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable/ic_visibility_black_24dp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/drawable/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/layout/Tabbar.axml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/layout/Toolbar.axml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/mipmap-ldpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs.Droid/Resources/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs/App.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs/App.xaml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs/BottomTabbedPageQs.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs/TestPage.xaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/BottomTabbedPageQs/TestPage.xaml.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +153,11 @@
       <workItem from="1603984148536" duration="166000" />
       <workItem from="1603984422672" duration="79000" />
       <workItem from="1603984506705" duration="10000" />
-      <workItem from="1603984555824" duration="341000" />
+      <workItem from="1603984555824" duration="425000" />
+      <workItem from="1603988035847" duration="224000" />
+      <workItem from="1603988291962" duration="88000" />
+      <workItem from="1603988388828" duration="583000" />
+      <workItem from="1604413167250" duration="137000" />
     </task>
     <servers />
   </component>
